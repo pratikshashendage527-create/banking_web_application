@@ -1,0 +1,6 @@
+{
+  "name": "Apex Digital Bank",
+  "description": "A modern multi-user digital banking platform featuring secure transfers, beneficiary management, fraud detection, analytics, virtual cards, bill payments, and an administrative oversight console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
